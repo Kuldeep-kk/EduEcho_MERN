@@ -38,20 +38,23 @@ EduEcho is an educational platform aimed at fostering a community where students
    - Showcase of popular technologies.
    - Customer reviews to build trust.
    - A neatly designed footer.
-   - ![Home Page Overview](link-to-homepage-image)
+   - ![Home Page Overview]
+<img src="https://res.cloudinary.com/dzxorfube/image/upload/v1713365795/eduecho/qdwcf2xmyeiyh9cepmef.png" alt="Project Logo" width="800" style="border-radius:20px;" />
 
 5. **Dashboard**: 
    - Your personalized academic journey at a glance.
    - Recent posts and your interactions.
    - Leaderboard featuring top contributors and learners.
-   - ![Dashboard](link-to-dashboard-image)
+   - ![Dashboard]
+<img src="https://res.cloudinary.com/dzxorfube/image/upload/v1713365851/eduecho/dsd8vbxsubm0soggkwsi.png" alt="Project Logo" width="800" style="border-radius:20px;" />
 
 6. **Post Dialog**: 
    - Post academic questions or content.
    - Choose the visibility of your post.
    - Add images to explain your doubts.
    - Utilize rephrase technology for content clarity.
-   - ![Post Dialog](link-to-post-dialog-image)
+   - ![Post Dialog]
+<img src="https://res.cloudinary.com/dzxorfube/image/upload/v1713365953/eduecho/lqu2oojnafui8hpcxyap.png" alt="Project Logo" width="800" style="border-radius:20px;" />
 
 ## Tech Stack
 
