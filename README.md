@@ -63,14 +63,5 @@ EduEcho is an educational platform aimed at fostering a community where students
 - Authentication: Advanced OTP based system
 - Email Service: Integrated email functionality for signup and password recovery
 
-## Contribute
-
-Interested in contributing? Great! We welcome contributions from everyone. Please read our [CONTRIBUTING.md](link-to-contribution-guidelines) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license) - see the LICENSE.md file for details.
-
----
 
 EduEcho - Empower your academic endeavors with community support!
