@@ -16,7 +16,7 @@ EduEcho is an educational platform aimed at fostering a community where students
    - Enter your college email ID.
    - Receive an OTP on your email.
    - Input the OTP and complete your profile with a secure password.
-   - ![Sign-Up Process](link-to-signup-image)
+   - ![Sign-Up Process]((https://res.cloudinary.com/dzxorfube/image/upload/v1713365226/eduecho/om8n6nqpgzw8vnh2qjtc.png))
 
 2. **Forget Page Workflow**: 
    - Email field for identification.
