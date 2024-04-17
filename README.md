@@ -23,11 +23,14 @@ EduEcho is an educational platform aimed at fostering a community where students
    - Email field for identification.
    - OTP verification for security.
    - Password reset for re-entry.
-   - ![Password Reset Process](link-to-password-reset-image)
+   - ![Password Reset Process]
+<img src="https://res.cloudinary.com/dzxorfube/image/upload/v1713365568/eduecho/gectcihc28wk7jmhkqvv.png" alt="Project Logo" width="800" style="border-radius:20px;" />
+
 
 3. **Sign-In Page**: 
    - Simple login with email and password.
-   - ![Sign-In](link-to-signin-image)
+   - ![Sign-In]
+<img src="https://res.cloudinary.com/dzxorfube/image/upload/v1713365580/eduecho/ra0bwcdwxwepo5gbvnch.png" alt="Project Logo" width="800" style="border-radius:20px;" />
 
 4. **Home Page**: 
    - Hero section introducing EduEcho.
