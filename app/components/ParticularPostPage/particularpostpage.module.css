@@ -1,0 +1,25 @@
+.mainDialog{
+    box-shadow: 0 0 10px slategray;
+
+    border-radius:20px;
+    background: rgba(255, 255, 255, 0.19);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+}
+.imageSection{
+    border-radius:20px 0 0 20px;
+
+}
+.textSection{
+    border-radius: 0 20px 20px 0;
+
+}
+.inputArea{
+    border: 1px solid rgba(4, 79, 155, 0.17);
+    border-radius:5px;
+
+
+}
+.inputArea input{
+
+}

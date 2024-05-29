@@ -1,0 +1,15 @@
+.mainCard{
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(192, 192, 192, 0.12);
+    background: rgba(255, 255, 255, 0.16);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-top:1px solid rgba(112, 128, 144, 0.11);
+    border-left:1px solid rgba(112, 128, 144, 0.11);
+
+
+
+}
+.mainProblemStatement{
+    font-size:15px;
+}
