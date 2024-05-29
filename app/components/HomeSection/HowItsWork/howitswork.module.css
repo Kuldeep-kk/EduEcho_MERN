@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap');
+
+.fontStyles{
+    font-family: 'Poppins', sans-serif;
+
+}
+.calBox{
+    background-image: linear-gradient(to right top, #f10078, #f63389, #f94c9a, #fc61aa, #ff73b9);
+    box-shadow: 5px 5px 20px #f87aa5;
+}
