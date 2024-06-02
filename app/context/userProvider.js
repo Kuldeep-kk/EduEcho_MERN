@@ -53,6 +53,8 @@ const UserProvider=({children})=>{
                 setUser({...logUser});
                 if(logUser){
                     LoadingTImeFn();
+                    await loadPost();
+                    await getUsers();
                 }
                 else{
                     console.log('');
@@ -63,8 +65,7 @@ const UserProvider=({children})=>{
             }
         }
         load();
-        loadPost();
-        getUsers();
+
 
     },[]);
 
